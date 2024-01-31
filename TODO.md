@@ -12,7 +12,7 @@
 #### Not Implemented
 * LDPC decoding (need to roll own implementation)
 * The following whisker types:
-    Timestamp, GPS, Route, Destination, Arbitrary, Simplex, Repeater
+    Timestamp, GPS, Route, Destination, Arbitrary, Simplex, Repeater //Needs work
 
 
 #### Implemented
